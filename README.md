@@ -1,6 +1,6 @@
 # Crowdfunding ETL Project
 
-A collaborative project to build an ETL pipeline using Python, Pandas, and PostgreSQL for extracting, transforming, and loading crowdfunding data from Excel files into a relational database.
+This project is the result of a collaboration between Zach Aaronson https://github.com/zachaa and Younes Smyej https://github.com/Younes1120 to build an ETL pipeline using Python, Pandas, and PostgreSQL for extracting, transforming, and loading crowdfunding data from Excel files into a relational database.
 
 ## Background
 
